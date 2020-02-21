@@ -1,0 +1,44 @@
+Tener slack (obligatorio)
+de martes a jueves, podria ser algo tranquilo / sencillo. 
+de jueves a martes se va a exijir mas.
+(puede ser que ejercicios sean del slack.)
+
+que vamos a hacer?
+Desarrollo de aplicaciones web. 
+Se utiliza node, entre otros. Lo importante es entender el dasorrollo y el mecanismo de lo que hagamos.
+
+que es una aplicacion?
+podria ser, una herramienta desarrollada para darle alguna utilidad. (redes sociales.. juegos.. etc). El objetivo! hacer aplicaciones para la web (ya fue dicho antes pero para recalcar.)
+
+desktop -> c#, electron (apps para desktop)
+
+un navegador (browser) tiene una barra de direcciones que se traslada a una pagina.
+una app es web por el echo de que se abre desde un navegador.
+
+al momento de introducir una direccion en el navegador, la aplicacion esta guardada en una nube, la cual reedirige la direccion (o peticion) que se realizo a un servidor, luego este ultimo devuelve el contenido a la nube ,y de la nube al pc o navegador
+
+http= protocolo. es como se van a comunicar el navegador y el servidor.
+nube= internet.
+
+una aplicacion esta conformado por un cliente, una peticion, un protocolo y servidor.
+
+para el back end, se va a utilizar NodeJs.
+
+para el front end, se utilizan 3 lenguajes. 
+javascript. (dato. java era rre genial y alguien dijo mandale javascript a este lenguaje y nos volvemos ricos.)
+html.
+css.
+
+nodeJs(no es un lenguaje, el lenguaje es javascript)
+nodeJs(es muy bueno, porque javascript sirve para el front y el back)
+
+html= define que elementos se utilizan.
+css= define los estilos de los elementos o como se ven.
+javascript= como funcionan estos elementos.
+por ejemplo un boton. 
+MongoDB= (base de datos).
+
+
+
+
+
