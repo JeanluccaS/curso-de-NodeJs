@@ -1,0 +1,32 @@
+HTML
+lenguaje de marca de hipertexto (html).
+Es un lenguaje de etiquetas (resumido)(?
+Lenguaje de etiquetas= todo el codigo se escribe en etiquetas.
+etiquetas= <un tipo de elemento>    (esto es una etiqueta), esto es una etiqueta de apertura.
+</un tipo de elemento> (etiqueta de cierre) entre ambos, hay un contenido. (ejemplo: <h1> hola </h1>) 
+el contenido entre etiquetas puede ser.. mas elemento de un tipo 
+
+<tipo1><tipo2></tipo2></tipo1>
+<tipo1>
+  <tipo2>
+  contenido
+  </tipo2>
+</tipo1> de esta forma, es escribirlo de manera prolija. (de manera indentada)
+
+que son los tipos de elemento.
+los elementos son el enmaquetado (un modelo de de como va a ser la pagina)
+
+elementos:
+<h1>titulos</h1> defino una etiqueta del tipo h1 con un contenido llamado titulo, al ser h1, es el titulo principal.
+<h2>subtitulo</h2> hasta un maximo de 6. (lo importante es utilizar un h diferente para cada caso. es decir, tiene que tener sentido)
+<p>pipoEsUnBuenPerro</p> esto es un parrafo. 
+<strong>(dentro de los parrafos)pongo la letra en negrita</strong>
+<em>enfasis</em>.
+
+para levantar un archivo html. 
+
+los archivos html, tienen de extencion ".html" (inesperado).
+lo ideal seria hacer la carpeta de archivos en la raid (C:\pipoProyecto).
+
+
+
