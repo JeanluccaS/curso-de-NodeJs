@@ -27,6 +27,17 @@ para levantar un archivo html.
 
 los archivos html, tienen de extencion ".html" (inesperado).
 lo ideal seria hacer la carpeta de archivos en la raid (C:\pipoProyecto).
+div es un contenedor generico, y se utiliza para agrupar elementos. (no se deberia usar siempre)
+nav, es una barra de navegacion
+listas: hay 2 tipos. las ordenadas y desordenadas.
+<ol> lista Ordenada (1.2.3) 
+<ul> lista desordenada
+<li> contenido de la lista.
+
+DOCTYPE= explicitamente es un html.
+lang = idioma
+head=cabecera
+title= titulo de la pagina. 
 
 
 
