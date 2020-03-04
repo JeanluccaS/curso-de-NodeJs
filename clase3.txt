@@ -1,0 +1,21 @@
+en las etiquetas, ademas de tener el elemento (h1,strong,p) un contenido (texto u otro elemento) entre medios hay otra cosa.
+Lo que hay entre medio, hay un atributo, se podria decir propiedad del elemento. Los atributos se utilizan para modificar, o alterar el elemento.
+
+<elem, atrib=valor >contigoPipo</elem>
+
+mas elemetos:
+<img> (imagen) para poner imaganes (obvius) (al decir img, le voy a presentar un archivo de imagen. (que yo tenga en mi pc)
+<img,src="paul.jpg"> 
+          clave=valor
+  elemento=imagen, el source =clave valor.
+si un elemento no tiene contenido, se puede cerrar ni bien se define (</elem>)
+la img, tiene el src (source (o direccion)) el ancho (el width) y la altura (height)
+<a> elemento. (a=anchor / ancla)
+
+ruta absoluta= toda la direccion 
+ruta relativa= es la ruta relativa a donde esta ubicado el archivo html (en este caso)
+<a> se utiliza para links. (hiper vinculos).
+
+a, (tag de apertura) atributo = href=""
+                     target= "_blank"se utiliza para abrirlo en otra pestaña.
+se puede linkear a un archivo, o a una pagina. 
