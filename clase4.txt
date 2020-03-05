@@ -1,0 +1,10 @@
+scv vcs (version control system)
+sistema de control de versiones.
+
+Que es esto?
+Es llevar un control de los posibles cambios que vaya a sufrir tu trabajo.
+
+(para esto se va a utilizar git /github)
+
+
+ 
