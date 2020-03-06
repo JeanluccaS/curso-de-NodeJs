@@ -6,5 +6,24 @@ Es llevar un control de los posibles cambios que vaya a sufrir tu trabajo.
 
 (para esto se va a utilizar git /github)
 
+mas elementos:
+tablas (filas mas columnas)
+se define la tabla y luego su contenido.
+<table> 
+  <thead> </thead> (cabecera)
+  <th> (celda de encabezado)
+  <tbody> 
+    <tr> (fila)
+     <td> 1</td> (celda)
+     <td> aa</td>
+    </tr> (fin de primera fila)
+    
+  </tbody>
+cellspacing=10 (espacio entre celdas)
+cellpading=1  (distancia de la palabra al borde de la celda, es como se llama, pading)
+
+
+</table>
+
 
  
