@@ -1,0 +1,83 @@
+Git.
+
+git init= hace que tal carpeta sea un repo
+(se utiliza en el caso de que quiera.. crear un repo remoto sin tener que acceder a github).
+
+css.
+
+cascading style sheets
+
+(hojas de estilo en cascada)
+
+La idea es trabajar en etapas. (o por sectores)
+
+Se aplican estilos organizados en hojas y se van aplicando 1 encima del otro.
+
+Es un lenguaje de estilos, y sirve para darle detalles. a los elementos de html.
+hay dos formas de vincular un archivo css a uno html
+De manera externa. 
+dentro del body (o en el header), se puede abrir un tag <style> y dentro escribir el css. 
+sino, al h1 agregarle como atributo style y entre comillas poner el css seria un estilado in line (como si fuese una negrtia o una italica).
+este ultimo tipo de style, afecta a todo el documento.
+
+conceptos de css.
+el selector.
+y propiedades de css.
+
+El selector= es el que me indica a que elementos (si hay mas de uno).
+propiedades= que estilo.
+h1. colo rojo
+headers de la tabla. fondo negro, texto blanco.
+a los elementos internos,  verde alineado en el centro bajo. 
+
+selector{
+prop: valor;
+prop: valor;
+--
+--
+}
+
+
+El selector tiene varias formas de escribirlo.
+
+Un selector puede ser: elemnto (tag): h1,body,trable,td,...
+(a que elemento le quiero aplicar el estilo)
+propiedades: una lista de propiedades para algunos elementos. (es decir, no todos las propiedades sirven en todos los elementos)
+color,backgroundcolor,front-size,margin,padding,border...
+
+ejemplo: td style y diferentes estilos. elemento mas atributo =css.
+tambien se pueden aplicar varios estilos separados por "  ;  ".
+backgroundcolor =color de fondo
+color= color de letra.
+
+selector time.
+
+ejemplo: a un elemento le quiero poner (afecta a todos los elemento)
+
+
+{
+backgroundcolor: grey;
+color: white
+}
+selector: presudoClase-
+selector>otro selector.= aplicar el estilo a un elemento si esta adentro de otro elemento
+si se pueden utilizar selectores en especifico, mejor. que usar 28 millones de clases.
+se pueden poner en un selector separados por coma, otros selectores.
+table,td,th,etc.
+
+le puedo poner un atributo dos elementos, llamado "class" y "ID"
+ambos atributos puedo usarlos para el estilado. y es para algo en especifico.
+
+ejemplo: td class: "cellpipo" 
+
+.cellpipo{
+todo en negrita con fondo amarillo y re grande.
+}
+tambien es importante que al momento de hacer los estilados, estos respeten el orden del html. (primero el header.. el body.. los h1... etc)
+
+
+
+
+
+
+
